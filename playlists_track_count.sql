@@ -4,3 +4,4 @@ SELECT pl.PlayListId,
 FROM PlayList pl
 INNER JOIN PlayListTrack plt
 ON pl.PlayListId = plt.PlayListId
+

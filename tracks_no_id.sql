@@ -14,3 +14,4 @@ ON mt.MediaTypeId = t.MediaTypeId
 JOIN Genre g
 ON g.GenreId = t.GenreId
 LIMIT 20;
+

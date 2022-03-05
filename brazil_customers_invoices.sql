@@ -3,3 +3,4 @@ InvoiceDate
 FROM Customer
 Inner Join Invoice
 WHERE Country = "Brazil"
+
